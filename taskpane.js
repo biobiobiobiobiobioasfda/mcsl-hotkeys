@@ -1,4 +1,4 @@
-/* MCSL Hotkeys (Office.js)
+/* LSCM Hotkeys (Office.js)
  *   Ctrl+W = yellow fill (#FFFF00)
  *   Ctrl+Q = blue font (#0000FF)
  *   Ctrl+J = center across selection, copying each row's source cell
