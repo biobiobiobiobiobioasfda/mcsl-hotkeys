@@ -1,0 +1,12 @@
+{
+  "actions": [
+    { "id": "FillYellow", "type": "ExecuteFunction", "name": "Yellow fill" },
+    { "id": "FontBlue", "type": "ExecuteFunction", "name": "Blue font" },
+    { "id": "CenterAcross", "type": "ExecuteFunction", "name": "Center across selection with formatting" }
+  ],
+  "shortcuts": [
+    { "action": "FillYellow", "key": { "default": "Ctrl+W", "web": "Ctrl+Alt+W" } },
+    { "action": "FontBlue", "key": { "default": "Ctrl+Q", "web": "Ctrl+Alt+Q" } },
+    { "action": "CenterAcross", "key": { "default": "Ctrl+J", "web": "Ctrl+Alt+J" } }
+  ]
+}
